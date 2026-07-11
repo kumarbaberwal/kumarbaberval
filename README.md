@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">React Native Developer | Full-Stack Developer | Backend Engineer | Python Developer</h3>
+<h3 align="center">AI/ML Engineer | React Native Full-Stack Developer | Python Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kumarbaberwal&label=Profile%20views&color=0e75b6&style=flat" alt="kumarbaberwal" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Results-oriented **Software Developer** with hands-on experience in **React Native**, **Expo**, **Python**, **Express.js**, **Node.js**, and **cloud-based authentication** systems like **Clerk** and **Firebase Auth**.  
+Results-oriented **Software Developer** with hands-on experience in **AI/ML**, **React Native**, **Expo**, **Python**, **Express.js**, **Node.js**, and **cloud-based authentication** systems like **Clerk** and **Firebase Auth**.  
 I enjoy building scalable apps, designing backend APIs, and collaborating with teams to ship real-world solutions.
 
 ---
@@ -20,15 +20,12 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
   Panipat Institute of Engineering and Technology (2022–Present)  
   **CGPA: 7.6/10**
 
-- **Senior Secondary (CBSE)**  
-  Geeta Vidya Mandir Sr. Sec. School, Gohana  
-  **88.4%**
-
 ---
 
 ### 🛠️ Skills
 
 **Programming:** Python, JavaScript, TypeScript, C++, HTML5, CSS3  
+**ML / Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch
 **Frameworks:** React Native, Expo, Node.js, Express.js, NativeWind, TailwindCSS  
 **Developer Tools:** VSCode, Android Studio, Git, Docker, Postman, npm  
 **Databases:** MongoDB, MySQL, PostgreSQL  
@@ -38,6 +35,15 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 
 ### 🔥 Projects
 
+#### **🗓️ AttendAI – AI-Powered Face & Voice Attendance System**
+
+**Python**
+
+- Built and deployed AttendAI, a full-stack attendance system using face recognition (dlib embeddings + SVC classifier) and voice recognition (Resemblyzer speaker embeddings + Librosa audio preprocessing) to automate classroom attendance with dual biometric verification
+- Designed end-to-end student/teacher authentication portals with registration, subject enrollment, and real-time attendance tracking; deployed a production computer vision + audio processing pipeline on Streamlit with a Vercel-hosted landing page.
+
+---
+
 #### **📱 ChirpChain – Full-Stack Social Media App**
 
 **React Native, Express.js, Clerk Auth, TanStack Query, Tailwind (NativeWind)**
@@ -45,20 +51,6 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 - Built a Twitter-style app with real-time feeds, posts, comments & likes
 - Implemented secure auth, messaging, notifications & follow/unfollow
 - Designed modular backend APIs with Clerk webhooks integration
-
-🔗 **Demo | GitHub**
-
----
-
-#### **🛠 Stackmend – Developer Error Hub**
-
-**React Native, Redux Toolkit, Express.js, MongoDB**
-
-- Led frontend mobile development in a team environment
-- Built error-sharing, tagging, search, and profile management features
-- Collaborated with a Next.js team for cross-platform workflows
-
-🔗 **Demo | GitHub**
 
 ---
 
@@ -70,8 +62,6 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 - Stored user favorites in PostgreSQL via Express API
 - Implemented recipe filters, detailed views & embedded video
 
-🔗 **Demo | GitHub**
-
 ---
 
 #### **📚 Bookshelf App – Book Management Platform**
@@ -81,20 +71,6 @@ I enjoy building scalable apps, designing backend APIs, and collaborating with t
 - Built book collection manager with reviews, ratings & personalized recs
 - Created custom REST APIs with MySQL backend
 - Designed clean UI for smooth user experience
-
-🔗 **Demo | GitHub**
-
----
-
-#### **🌐 Socializer – Social Media App**
-
-**React Native, TypeScript, Clerk.dev, Cloudinary**
-
-- Implemented image posting, likes, comments, follow system
-- Added bookmarking, notifications & user profile editing
-- Managed state & API integration for smooth interactions
-
-🔗 **Demo | GitHub**
 
 ---
 
